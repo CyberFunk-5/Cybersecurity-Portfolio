@@ -1,79 +1,105 @@
 Professional Statements
+Summary
 
-𝑺𝒖𝒎𝒎𝒂𝒓𝒚:
+    + Bachelor of Cybersecurity (currently attending), providing technical and cybersecurity support as an Information Security Engineer.
 
-    Bachelor of Cybersecurity (still attending) providing technical and cybersecurity support as an Information Security Engineer.
-    Comptia Security+ Certified.
-    Comptia CYSA+ Certified.
-    AWS Cloud Practitioner Certified.
-    Microsoft 365 Certifed (MS-900.)
-    Experience in information analyst, logistics and retail, technical support, and customer service.
-    IT procurement expertise (saves 25%), NIST compliance (saves ~AU$100,000), Risk management (prevents 16-hour downtimes).
-    Passionate about Information Security, Cloud Security, IT Infrastructure, Artificial Intelligence, and Cybersecurity.
+    + CompTIA Security+ Certified
 
-𝑲𝒆𝒚 𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔:
+    + CompTIA CySA+ Certified
 
-    IT Procurement: Saved 25% of the total cost of IT procurement.
-    NIST: Develop and maintain strategic preventive plans to counter ransomware attacks, saving over $100,000.
-    Risk Management: Development and coordinated to patch management process to remain within SLA windows for (Critical, HIGH, and Medium) severity.
-    Data Analysis: Developed data visualisations (Datadog) to enhance sourcing reports, reducing processing time by ~10%.
-    Training: Conducted remote training for global staff created security awareness and tutorial videos. Streamlined processes by 2 days.
-    Technical Support: Provided first-level support for platform inquiries, resolving 73.3% of issues.
-  
+    AWS Cloud Practitioner Certified
 
-𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐:
+    Microsoft 365 Certified (MS-900)
 
-    Developed a rigorous cybersecurity project portfolio on mock clients covering NIST, audits, Linux, SQL, assets, threats, vulnerabilities, detection, incident response, escalation, Wireshark, tcpdump, IDS, SIEM, and Python automation.
+    Experience in information analysis, logistics, retail, technical support, and customer service
 
-𝑲𝒆𝒚 𝑺𝒌𝒊𝒍𝒍𝒔:
+    Proven expertise in IT procurement (saved 25%), NIST compliance (saved ~AU$100,000), and risk management (prevented 16-hour downtimes)
 
-    Microsoft Entra ID, Microsoft Intune & Exchange, Troubleshooting Hardware & Software, Windows, MacOS, Slack, JIRA, Office 365, Mimecast, Crowdstrike Administration, Google Workspace, Azure Administration, Datadog, Okta Administration, Netsuite Administration, Splunk, Python.
+    Passionate about Information Security, Cloud Security, IT Infrastructure, Artificial Intelligence, and Cybersecurity
 
-𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔:
+Key Achievements
 
-    Research, Cybersecurity, Artificial Intelligence, IT Infrastructure, Python, Azure, Google Cloud, AWS, Linux, Data Privacy.
+    IT Procurement: Saved 25% of total IT procurement costs through strategic sourcing and negotiation.
 
-Thank you for your time. I'd welcome the chance to connect! Feel free to reach out.
+    NIST Compliance: Developed and maintained strategic plans to prevent ransomware attacks, saving over USD $100,000.
 
-    Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
+    Risk Management: Coordinated patch management processes to meet SLA windows for Critical, High, and Medium severity vulnerabilities.
 
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
+    Data Analysis: Built Datadog dashboards to improve reporting accuracy and reduce processing time by ~10%.
 
-    Programming for cybersecurity tasks
-    Frameworks and controls that inform security operations
-    SIEM tools for cybersecurity
-    Detecting and responding to incidents using an intrusion detection system
-    Performing packet capture and analysis
+    Training & Enablement: Delivered remote training and created security awareness videos for global teams—streamlining onboarding by 2 days.
 
-Additionally, it has paved the way for me to pursue one of the entry-level following roles:
+    Technical Support: Provided Tier 1 platform support, resolving 73.3% of tickets independently.
+
+Cybersecurity Portfolio
+
+Developed a comprehensive cybersecurity portfolio simulating real-world scenarios and mock clients. Covered:
+
+    NIST frameworks, security audits, asset management
+
+    Linux, SQL, Bash scripting
+
+    Threat/vulnerability assessments, detection & response
+
+    Wireshark, tcpdump, IDS & SIEM (Splunk), incident response
+
+    Python automation
+
+Key Skills
+
+    Systems & Admin: Microsoft Entra ID, Microsoft Intune, Microsoft Exchange, Azure Admin, Google Workspace, Netsuite Admin
+
+    Security Tools: Mimecast, CrowdStrike, Okta Admin, Splunk, Datadog
+
+    Tech Support: Troubleshooting (Windows/macOS), Office 365, Slack, JIRA
+
+    Programming: Python
+
+    Networking & Security: IDS, SIEM, Packet analysis (tcpdump/Wireshark)
+
+Interests
+
+Cybersecurity, Artificial Intelligence, Cloud Platforms (AWS, Azure, GCP), Python, Linux, IT Infrastructure, Data Privacy, Research
+Career Goals
+
+Currently pursuing entry-level roles such as:
 
     Information Security Analyst
+
     IT Security Analyst
-    
 
-Skills
-Projects 	Skills/Knowledge Gained
-1 - Conduct a security audit 	INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad
-2 - Network Security 	TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks
-3 - Linux & SQL 	Command-line Interface, SQL, Linux, Bash
-4 - Assets, Threats, & Vulnerabilities 	Authentication,  Vulnerability assessment, Cryptography, Asset Classification, Threat Modelling Analysis
-5 - Detection & Response 	Incident Lifecycle
-6 - Tcpdump & Wireshark 	Packet Analyzer
-7 - IDS & SIEM 	Intrusion Detection System (IDS): Security Information and Event Management (SIEM): Splunk
-8 - Automation with Python 	Computer Programming, Python Programming, PEP 8 Style Guide
-Tools
+Skills by Project
+Project	Skills & Knowledge Gained
+1 - Conduct a Security Audit	NIST RMF, NIST CSF, Security Audits, Incident Response Playbooks, CISSP concepts, CIA
+2 - Network Security	TCP/IP, Network Architecture, Security Hardening, Cloud Network Fundamentals
+3 - Linux & SQL	Command Line, SQL Queries, Linux Fundamentals, Bash Scripting
+4 - Assets, Threats & Vulns	Authentication, Vulnerability Assessment, Cryptography, Threat Modeling
+5 - Detection & Response	Incident Lifecycle, Monitoring
+6 - Tcpdump & Wireshark	Packet Analysis, Network Forensics
+7 - IDS & SIEM	Intrusion Detection Systems, Security Information and Event Management (Splunk)
+8 - Automation with Python	Python Programming, Automation Scripts, PEP8 Compliance
+Tools Used
 
-Several tools that I used:
+    Google Workspace (Docs, Sheets, Slides, Drive)
 
-    Google Workspace (Drive, Docs, Sheets, Slides)
-    Markdown Language
+    Markdown
+
     Tcpdump
+
     Wireshark
+
     Linux OS
+
     SQL
+
     Splunk
+
     Python
 
-Other references
+Additional Notes
 
-This portfolio is just a start as I continue my Cybersecurity Career. As I pursue more projects and certifications I will upload them here. Please connect with me on Linkedin.
+    Some documents are provided in PDF format to enable advanced formatting, visual clarity, and rich media (e.g., screenshots).
+
+    This portfolio is the beginning of my cybersecurity journey. As I continue to grow through projects and certifications, more content will be added.
+
+    Let's connect on LinkedIn!
