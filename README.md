@@ -8,7 +8,7 @@ Welcome to my Cybersecurity Portfolio, please connect. I love to learn more and 
 - CompTIA CySA+ Certified  
 - AWS Cloud Practitioner Certified  
 - Microsoft 365 Certified (MS-900)  
-- Experience in information analysis, logistics, retail, technical support, and customer service  
+- Experience in information analysis, logistics, supply chain, technical support, and risk analysis. 
 - Proven expertise in IT procurement (saved 25%), NIST compliance (saved ~USD $100,000), and Risk management.  
 - Passionate about Information Security, Cloud Security, IT Infrastructure, Artificial Intelligence, and Cybersecurity  
 
