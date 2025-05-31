@@ -1,5 +1,5 @@
-**Professional Statements**
-
+*Professional Statements*
+  Welcome to my Cybersecurity Portfolio, please connect. I love to learn more and expand my expertise. 
 ## Summary
 
 - Bachelor of Cybersecurity (currently attending), providing technical and cybersecurity support as an Information Security Engineer.  
