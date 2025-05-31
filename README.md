@@ -1,4 +1,4 @@
-Professional Statements
+**Professional Statements**
 
 ## Summary
 
@@ -8,7 +8,7 @@ Professional Statements
 - AWS Cloud Practitioner Certified  
 - Microsoft 365 Certified (MS-900)  
 - Experience in information analysis, logistics, retail, technical support, and customer service  
-- Proven expertise in IT procurement (saved 25%), NIST compliance (saved ~AU$100,000), and risk management (prevented 16-hour downtimes)  
+- Proven expertise in IT procurement (saved 25%), NIST compliance (saved ~USD $100,000), and Risk management.  
 - Passionate about Information Security, Cloud Security, IT Infrastructure, Artificial Intelligence, and Cybersecurity  
 
 ---
@@ -93,4 +93,4 @@ Currently pursuing entry-level roles such as:
 
 - Some documents are provided in PDF format to enable advanced formatting, visual clarity, and rich media (e.g., screenshots).  
 - This portfolio is the beginning of my cybersecurity journey. As I continue to grow through projects and certifications, more content will be added.  
-- Let's connect on **LinkedIn**!
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/roderickmcqueen)!
