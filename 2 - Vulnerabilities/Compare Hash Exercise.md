@@ -39,7 +39,7 @@ Input B: Hello, world!
 ## 📸 Screenshots
 
 ### 🔹 MD5 Comparison
-![MD5 Hash Comparison](https://imgur.com/a/qYT9wBc,https://imgur.com/h5SnwDg)
+![MD5 Hash Comparison](https://imgur.com/a/qYT9wBc)
 
 ### 🔹 SHA-1 Comparison
 ![SHA-1 Hash Comparison](https://i.imgur.com/tqJZdjY.png)
