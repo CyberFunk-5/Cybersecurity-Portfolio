@@ -3,7 +3,7 @@
 
 ## 📌 Objective
 
-Gain hands-on experience in identifying, categorizing, and reporting vulnerabilities in a simulated or real-world environment. This exercise demonstrates essential skills for penetration testing and risk management.
+This exercise demonstrates essential skills for vulernablity assessment and risk management.
 
 ---
 
