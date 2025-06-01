@@ -42,12 +42,6 @@ Input B: Hello, world!
 ![MD5 Hash Comparison](https://github.com/CyberFunk-5/Cybersecurity-Portfolio/blob/main/2%20-%20Vulnerabilities/Hash%20Comparison%20Screenshots/c3DI8bi%20-%20Imgur.png?raw=true)
 ![MD5 Hash Comparison](https://github.com/CyberFunk-5/Cybersecurity-Portfolio/blob/main/2%20-%20Vulnerabilities/Hash%20Comparison%20Screenshots/h5SnwDg%20-%20Imgur.png?raw=true)
 
-### 🔹 SHA-1 Comparison
-![SHA-1 Hash Comparison](https://i.imgur.com/tqJZdjY.png)
-
-### 🔹 SHA-256 Comparison
-![SHA-256 Hash Comparison](https://i.imgur.com/JkCCQx9.png)
-
 ---
 
 ## ❓ Why This Matters
