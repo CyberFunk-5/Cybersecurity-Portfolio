@@ -94,8 +94,6 @@ Tool: Nikto
 CVSS: 7.5 (High)
 Remediation: Update Apache to latest version or migrate to supported release.
 ```
-
----
 ---
 
 ## 🛡️ Best Practices
