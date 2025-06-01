@@ -25,8 +25,8 @@ During a quarterly asset inventory audit, the security team discovered two high-
 
 | Asset Name         | Type           | Owner        | Location     | Classification   | Status     |
 |--------------------|----------------|--------------|--------------|------------------|------------|
-| `dev-ws-01`        | Workstation    | A. Turner    | HQ - Floor 2 | Internal - Code  | Untracked  |
-| `dev-ws-02`        | Workstation    | B. Nguyen    | HQ - Floor 2 | Internal - Code  | Untracked  |
+| `dev-ws-01`        | Workstation    | A. Pennyworth   | HQ - Floor 2 | Internal - Code  | Untracked  |
+| `dev-ws-02`        | Workstation    | B. Wayne    | HQ - Floor 2 | Internal - Code  | Untracked  |
 
 ---
 
@@ -82,6 +82,6 @@ During a quarterly asset inventory audit, the security team discovered two high-
 
 **Prepared by:** Bruce Wayne  
 **Role:** Cybersecurity Analyst  
-**Date:** 2025-02-28
+**Date:** 2025-05-28
 
    
