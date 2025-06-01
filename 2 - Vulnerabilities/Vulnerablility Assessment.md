@@ -96,14 +96,6 @@ Remediation: Update Apache to latest version or migrate to supported release.
 ```
 
 ---
-
-## 📸 Screenshots to Include
-
-- Nmap scan results
-- Nikto scan showing web vulnerabilities
-- Screenshots from vulnerability reports
-- (Optional) Exploitation result using Metasploit in a legal sandbox
-
 ---
 
 ## 🛡️ Best Practices
