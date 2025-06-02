@@ -1,5 +1,5 @@
 
-# 🌐 Real-World Example: Analyzing Network Layer Communication
+# 🌐 Analyzing Network Layer Communication (Example Created for Documentation)
 
 ## Scenario
 
@@ -45,8 +45,6 @@ traceroute example.com
 ```
 1  192.168.1.1 (Router)         1.123 ms
 2  10.0.0.1 (ISP Gateway)       5.456 ms
-3  * * *
-4  * * *
 ```
 
 > 🧠 Interpretation: Packets are leaving the local network but are dropped beyond the ISP gateway.
