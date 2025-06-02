@@ -56,9 +56,9 @@ At approximately 09:23 AM on June 1st, 2025, an employee reported unusual system
 
 ## 📘 Lessons Learned
 
-- Removable media policies need better enforcement.
-- Endpoint detection worked as expected.
-- Employee awareness training needs regular refresh. 
+- Removable media policies need better enforcement
+- Endpoint detection worked as expected
+- Employee awareness training needs regular refresh 
 
 ---
 
