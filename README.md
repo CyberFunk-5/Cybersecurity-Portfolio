@@ -67,13 +67,10 @@ Currently pursuing entry-level roles such as:
 | Project                      | Skills & Knowledge Gained                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------------------|
 | 1 - Conduct a Security Audit| NIST RMF, NIST CSF, Security Audits, Incident Response Playbooks, CISSP concepts, CIA        |
-| 2 - Network Security        | TCP/IP, Network Architecture, Security Hardening, Cloud Network Fundamentals                 |
-| 3 - Linux & SQL             | Command Line, SQL Queries, Linux Fundamentals, Bash Scripting                                |
-| 4 - Assets, Threats & Vulns | Authentication, Vulnerability Assessment, Cryptography, Threat Modeling                      |
-| 5 - Detection & Response    | Incident Lifecycle, Monitoring                                                                |
-| 6 - Tcpdump & Wireshark     | Packet Analysis, Network Forensics                                                            |
-| 7 - IDS & SIEM              | Intrusion Detection Systems, Security Information and Event Management (Splunk)              |
-| 8 - Automation with Python  | Python Programming, Automation Scripts, PEP8 Compliance                                      |
+| 2 - Vulnerablity Managment        | Authentication, Vulnerability Assessment, Cryptography, Threat Modeling                 |
+| 3 - Detection & Response    | Incident Lifecycle, Monitoring                                                                |
+| 4 - Network Security     | Packet Analysis, Network Forensics, OS Hardening, Network Layer Security                                                           |
+| 5 - Automation with Python  | Python Programming, Automation Scripts, PEP8 Compliance                                      |
 
 ---
 
@@ -84,8 +81,7 @@ Currently pursuing entry-level roles such as:
 - Tcpdump  
 - Wireshark  
 - Linux OS  
-- SQL  
-- Splunk  
+- SQL    
 - Python  
 
 ---
