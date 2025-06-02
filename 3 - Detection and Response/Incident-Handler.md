@@ -3,7 +3,7 @@
 
 **Incident ID:** INC-2025-001  
 **Reported Date:** 2025-06-01  
-**Reported By:** John Doe (IT Helpdesk)  
+**Reported By:** Alfred Pennyworth (IT Helpdesk)  
 **Classification:** Malware Infection via Removable Media  
 **Severity:** High  
 **Status:** Resolved
@@ -56,9 +56,9 @@ At approximately 09:23 AM on June 1st, 2025, an employee reported unusual system
 
 ## 📘 Lessons Learned
 
-- Removable media policies need better enforcement
-- Endpoint detection worked as expected
-- Employee awareness training needs regular refresh
+- Removable media policies need better enforcement.
+- Endpoint detection worked as expected.
+- Employee awareness training needs regular refresh. 
 
 ---
 
@@ -72,6 +72,6 @@ At approximately 09:23 AM on June 1st, 2025, an employee reported unusual system
 ---
 
 *Prepared by:*  
-**Jane Smith**  
+**Dick Grayson**  
 Cybersecurity Incident Handler  
 *Date:* 2025-06-02
