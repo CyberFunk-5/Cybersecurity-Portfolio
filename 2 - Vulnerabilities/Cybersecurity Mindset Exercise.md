@@ -40,7 +40,3 @@ An employee finds a USB flash drive in the company parking lot. Curious, they pl
 ## 💬 Real-World Examples
 
 - **Stuxnet:** Originally spread via USB drives in air-gapped environments.
-- **Red Team Exercises:** Many security tests include “USB bait drops” to see if staff will plug them in.
-
-> 🧠 **Cybersecurity Mindset:**  
-> “If it's too easy, it might be a trap. Assume malicious intent until proven safe.”
