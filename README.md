@@ -40,7 +40,7 @@ Developed a comprehensive cybersecurity portfolio simulating real-world scenario
 
 - **Systems & Admin**: Microsoft Entra ID, Microsoft Intune, Microsoft Exchange, Azure Admin, Google Workspace, Netsuite Admin  
 - **Security Tools**: Mimecast, CrowdStrike, Okta Admin, Splunk, Datadog  
-- **Tech Support**: Troubleshooting (Windows/macOS), Office 365, Slack, JIRA  
+- **Tech Support**: Troubleshooting (Windows/macOS), Office 365, JIRA, Okta, RDP  
 - **Programming**: Python  
 - **Networking & Security**: IDS, SIEM, Packet analysis (tcpdump/Wireshark)  
 
@@ -48,7 +48,7 @@ Developed a comprehensive cybersecurity portfolio simulating real-world scenario
 
 ## Interests
 
-Cybersecurity, Artificial Intelligence, Cloud Platforms (AWS, Azure, GCP), Python, Linux, IT Infrastructure, Data Privacy, Research  
+Cybersecurity, Artificial Intelligence, Cloud Platforms (AWS, Azure, GCP), Python, Linux, IT Infrastructure, Data Privacy
 
 ---
 
