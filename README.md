@@ -16,8 +16,7 @@ Welcome to my Cybersecurity Portfolio, please connect. I love to learn more and 
 
 ## Key Achievements
 
-- **IT Procurement**: Saved 25% of total IT procurement costs through strategic sourcing and negotiation.  
-- **NIST Compliance**: Developed and maintained strategic plans to prevent ransomware attacks, saving over USD $100,000.  
+- **IT Procurement**: Saved 25% of total IT procurement costs through strategic sourcing and negotiation.    
 - **Risk Management**: Coordinated patch management processes to meet SLA windows for Critical, High, and Medium severity vulnerabilities.  
 - **Data Analysis**: Built visual Datadog dashboards to improve reporting accuracy and reduce processing time by ~10%.  
 - **Training & Enablement**: Delivered remote training and created security awareness assessments for global teams—streamlining onboarding by 2 days.  
