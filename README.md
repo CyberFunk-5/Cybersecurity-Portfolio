@@ -38,7 +38,7 @@ Developed a comprehensive cybersecurity portfolio simulating real-world scenario
 
 ## Key Skills
 
-- **Systems & Admin**: Microsoft Entra ID, Microsoft Intune, Microsoft Exchange, Azure Admin, Google Workspace, Netsuite Admin  
+- **Systems & Admin**: Microsoft Entra ID, Microsoft Intune, Microsoft Exchange, Azure Admin, Google Workspace, Netsuite, Kandji  
 - **Security Tools**: Mimecast, CrowdStrike, Okta Admin, Splunk, Datadog  
 - **Tech Support**: Troubleshooting (Windows/macOS), Office 365, JIRA, Okta, RDP  
 - **Programming**: Python  
@@ -54,10 +54,11 @@ Cybersecurity, Artificial Intelligence, Cloud Platforms (AWS, Azure, GCP), Pytho
 
 ## Career Goals
 
-Currently pursuing entry-level roles such as:
+Currently pursuing roles such as:
 
 - Information Security Analyst  
-- IT Security Analyst  
+- IT Security Analyst
+- Security Engineer
 
 ---
 
