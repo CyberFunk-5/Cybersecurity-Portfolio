@@ -91,3 +91,4 @@ Currently pursuing roles such as:
 - Some documents are provided in PDF format to enable advanced formatting, visual clarity, and rich media (e.g., screenshots).  
 - This portfolio is the beginning of my cybersecurity journey. As I continue to grow through projects and certifications, more content will be added.  
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/roderickmcqueen)!
+- Check out my blog [Cyberfunk](https://cyberfunk.blog/)
